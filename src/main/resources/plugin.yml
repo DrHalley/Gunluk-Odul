@@ -1,0 +1,9 @@
+name: GunlukOdul
+version: '${project.version}'
+main: com.drhalley.gunlukodul.GunlukOdul
+api-version: '1.16'
+extends:
+  config:
+commands:
+  ödül:
+  odul-reload:

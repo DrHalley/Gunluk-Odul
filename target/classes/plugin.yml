@@ -1,0 +1,9 @@
+name: GunlukOdul
+version: '1.0-SNAPSHOT'
+main: com.drhalley.gunlukodul.GunlukOdul
+api-version: '1.16'
+extends:
+  config:
+commands:
+  ödül:
+  odul-reload:

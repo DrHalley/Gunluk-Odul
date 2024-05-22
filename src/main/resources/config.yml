@@ -1,0 +1,23 @@
+no_permission: '&#ff1a1aYetkin yok'
+no_enough_args: 'Yeterli argüman girmedin!'
+menu_deleted: '%menu% menüsünü başarıyla sildin'
+menu_created: '%menu% menüsünü başarıyla oluşturdun'
+menu_already_exists: 'Zaten böyle bir menü var'
+menu_not_found: 'Menü bulunamadı'
+already_claimed: 'Bu ödülü zaten almışsın'
+cant_claim_yet: 'Bu ödülü daha alamazsın'
+streak: '%menu% menüsündeki günlük serin %streak%!'
+day: '%menu% menüsünde %day%. günündesin!'
+must_specify_integer: 'Bir sayı girmelisin!'
+enable_streak_reset_msg: true
+streak_reset: '&cYou weren''t able to claim all daily rewards in a row, so your streak
+  will be reset.'
+enable_join_reminder: true
+join_message_delay: 3
+join_reminder:
+  - '       &7&m-------------------------------'
+  - '          &a&lYeni ödüller alabilirsin!'
+  - '            &7Alabileceğin &b%claimable% &7ödül var.'
+  - ''
+  - '               &dÖdülünü almak için /ödül yaz'
+  - '       &7&m-------------------------------'
